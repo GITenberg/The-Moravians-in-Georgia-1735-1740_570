@@ -1,5 +1,8 @@
 _repo: The-Moravians-in-Georgia-1735-1740_570
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fries, Adelaide L. (Adelaide Lisetta)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '291'
     url: http://www.gutenberg.org/2009/agents/291
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/570#The-Moravians-in-Georgia-1735-1740
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
 identifiers:
